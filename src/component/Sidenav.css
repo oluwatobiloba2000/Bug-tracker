@@ -1,0 +1,46 @@
+.nav{
+    height: 55px;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.board-owner-card{
+    display: flex;
+    align-items: center;
+    margin: 0px 5px;
+    width: 120px;
+    border: 1px solid;
+    padding: 6px;
+    background-color: #878383;
+    color: white;
+    border-radius: 6px;
+}
+.current-username{
+    padding: 5px;
+    border-radius: 7px;
+    font-size: 17px;
+    background-color: #ffffff;
+    color: #3367d6;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-break: break-all;
+    transition: 1s ease;
+}
+
+.nav-btn{
+    margin: 0px 5px;
+    cursor: pointer;
+}
+
+.nav-container{
+    display: flex ;
+    height: 100%;
+    align-items: center;
+}
+
+.add-btn{
+    margin-right: 15px !important;
+    background-color: #000000;
+}

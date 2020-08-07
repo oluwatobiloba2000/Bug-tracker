@@ -1,0 +1,50 @@
+.container.dark-mode{
+    background-color: #000000c7;
+}
+
+.dark-mode .bug-section{
+    background-color: #0000009e;
+}
+
+.dark-mode .add-btn{
+    background-color: #03A9F4;
+}
+
+.dark-mode .nav{
+    background-color: #03A9F4;
+}
+
+.dark-mode .bug-card{
+    background-color: #15485f;
+    color: white;
+}
+
+.dark-mode .delete-icon{
+    color: white;
+}
+
+.dark-mode .resolved-bug-time{
+    color: #08f508;
+}
+
+.dark-mode .pending-resolve-btn{
+    border: 1px dashed #10ea08 !important;
+    color: #08f508 !important;
+    border-radius: 20px ;
+    font-size: 9px;
+}
+
+.dark-mode .section-title{
+    color: white;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    background-color: #03a9f4;
+}
+
+.dark-mode .empty-message{
+    color: white;
+}
+
+.dark-mode .checkIcon{
+    color: #04ff04;
+}
